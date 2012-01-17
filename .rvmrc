@@ -1,1 +1,1 @@
-rvm use 1.9.2@bb.kendoui --create
+rvm use 1.9.2@bb-sinatra-boiler --create
